@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sushara-global.netlify.app/sitemap.xml
